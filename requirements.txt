@@ -3,3 +3,4 @@ pydantic
 pandas
 prophet
 json
+uvicorn
