@@ -2,5 +2,4 @@ fastapi
 pydantic
 pandas
 prophet
-json
 uvicorn
